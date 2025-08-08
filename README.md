@@ -3,10 +3,10 @@
 ![Project Screenshot](./screenshot.png)
 
 ## Overview
-This is a [short project description]. It helps users do XYZ.
+The Marathon Management App is a comprehensive web application designed to simplify the management of marathon events.User can easily add, update, and delete marathon events. Meanwhile, users can register for marathons, view their application lists, and access detailed event information.
 
 ## Live Demo
-[Click here to see live project](https://your-live-link.com)
+[Click here to see live project](https://marathon-management-syst-2261d.web.app/)
 
 ## Technologies Used
 - React
@@ -18,6 +18,7 @@ This is a [short project description]. It helps users do XYZ.
 - User authentication
 - Responsive design
 - Real-time data update
+- User dashboard
 
 ## Dependencies
 - react-router-dom
@@ -26,11 +27,11 @@ This is a [short project description]. It helps users do XYZ.
 
 ## How to Run Locally
 1. Clone the repo  
-   `git clone https://github.com/username/project-name.git`  
+   `https://github.com/devmostafakamal/marathon-management-client--side.git`  
 2. Install dependencies  
    `npm install`  
 3. Start the development server  
-   `npm start`
+   `npm run dev`
 
 ## Additional Links
 - API Documentation: [Link]
