@@ -1,4 +1,4 @@
-# Project Name
+# Project Name : Marathon Management App
 
 ![Project Screenshot](./screenshot.png)
 
